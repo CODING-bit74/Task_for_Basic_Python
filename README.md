@@ -47,7 +47,7 @@ Subtraction: 6
 Multiplication: 16
 Division: 4.0
 🛠️ How to Run
-Save the script in a file named calculator.py.
+Save the script in a file named   Task1.py.
 
 Open your terminal or command prompt.
 
